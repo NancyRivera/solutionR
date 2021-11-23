@@ -1,0 +1,17 @@
+D:\vs\prueba\prueba\prueba\prueba\WebApplication1\Datos\bin\Debug\Datos.dll
+D:\vs\prueba\prueba\prueba\prueba\WebApplication1\Datos\bin\Debug\Datos.pdb
+D:\vs\prueba\prueba\prueba\prueba\WebApplication1\Datos\bin\Debug\Entidades.dll
+D:\vs\prueba\prueba\prueba\prueba\WebApplication1\Datos\bin\Debug\SGOUtil.dll
+D:\vs\prueba\prueba\prueba\prueba\WebApplication1\Datos\bin\Debug\System.Data.SqlClient.dll
+D:\vs\prueba\prueba\prueba\prueba\WebApplication1\Datos\bin\Debug\RestSharp.dll
+D:\vs\prueba\prueba\prueba\prueba\WebApplication1\Datos\bin\Debug\Newtonsoft.Json.dll
+D:\vs\prueba\prueba\prueba\prueba\WebApplication1\Datos\bin\Debug\Entidades.pdb
+D:\vs\prueba\prueba\prueba\prueba\WebApplication1\Datos\bin\Debug\SGOUtil.pdb
+D:\vs\prueba\prueba\prueba\prueba\WebApplication1\Datos\bin\Debug\System.Data.SqlClient.xml
+D:\vs\prueba\prueba\prueba\prueba\WebApplication1\Datos\bin\Debug\RestSharp.xml
+D:\vs\prueba\prueba\prueba\prueba\WebApplication1\Datos\bin\Debug\Newtonsoft.Json.xml
+D:\vs\prueba\prueba\prueba\prueba\WebApplication1\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\vs\prueba\prueba\prueba\prueba\WebApplication1\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\vs\prueba\prueba\prueba\prueba\WebApplication1\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\vs\prueba\prueba\prueba\prueba\WebApplication1\Datos\obj\Debug\Datos.dll
+D:\vs\prueba\prueba\prueba\prueba\WebApplication1\Datos\obj\Debug\Datos.pdb

@@ -1,0 +1,17 @@
+D:\vs\prueba\prueba\prueba\prueba\WebApplication1\Negocios\bin\Debug\Negocios.dll
+D:\vs\prueba\prueba\prueba\prueba\WebApplication1\Negocios\bin\Debug\Negocios.pdb
+D:\vs\prueba\prueba\prueba\prueba\WebApplication1\Negocios\bin\Debug\Datos.dll
+D:\vs\prueba\prueba\prueba\prueba\WebApplication1\Negocios\bin\Debug\Entidades.dll
+D:\vs\prueba\prueba\prueba\prueba\WebApplication1\Negocios\bin\Debug\SGOUtil.dll
+D:\vs\prueba\prueba\prueba\prueba\WebApplication1\Negocios\bin\Debug\RestSharp.dll
+D:\vs\prueba\prueba\prueba\prueba\WebApplication1\Negocios\bin\Debug\Newtonsoft.Json.dll
+D:\vs\prueba\prueba\prueba\prueba\WebApplication1\Negocios\bin\Debug\Datos.pdb
+D:\vs\prueba\prueba\prueba\prueba\WebApplication1\Negocios\bin\Debug\Entidades.pdb
+D:\vs\prueba\prueba\prueba\prueba\WebApplication1\Negocios\bin\Debug\SGOUtil.pdb
+D:\vs\prueba\prueba\prueba\prueba\WebApplication1\Negocios\bin\Debug\RestSharp.xml
+D:\vs\prueba\prueba\prueba\prueba\WebApplication1\Negocios\bin\Debug\Newtonsoft.Json.xml
+D:\vs\prueba\prueba\prueba\prueba\WebApplication1\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+D:\vs\prueba\prueba\prueba\prueba\WebApplication1\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+D:\vs\prueba\prueba\prueba\prueba\WebApplication1\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+D:\vs\prueba\prueba\prueba\prueba\WebApplication1\Negocios\obj\Debug\Negocios.dll
+D:\vs\prueba\prueba\prueba\prueba\WebApplication1\Negocios\obj\Debug\Negocios.pdb

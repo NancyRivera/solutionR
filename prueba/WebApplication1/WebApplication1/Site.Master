@@ -1,0 +1,39 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="WebApplication1.Site" %>
+
+<!DOCTYPE html>
+<script src="script/js/jquery.min.js"></script>
+<html>
+<head runat="server">
+    <meta charset="utf-8" content="utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <title></title>
+    
+    <link href="Style/bootstrap-3.3.7/css/bootstrap.css" rel="stylesheet" />
+
+    <link href="node_modules/jquery-ui-dist/jquery-ui.css" rel="stylesheet" />
+    <link href="node_modules/jqGrid/css/ui.jqgrid.css" rel="stylesheet" />
+
+    <asp:ContentPlaceHolder ID="Head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <asp:ScriptManager runat="server" EnablePageMethods="true" ID="ScriptManager1"></asp:ScriptManager>
+            <script>
+                const App = {};
+            </script>
+            <asp:ContentPlaceHolder ID="Main" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+    <script src="script/js/jquery.min.js"></script>
+    <script src="node_modules/jquery-ui-dist/jquery-ui.js"></script>
+    <script src="Style/bootstrap-3.3.7/js/bootstrap.min.js"></script>
+    <script src="node_modules/jqGrid/js/i18n/grid.locale-es.js"></script>
+    <script src="node_modules/jqGrid/js/jquery.jqGrid.js"></script>
+    <asp:ContentPlaceHolder ID="Footer" runat="server">
+    </asp:ContentPlaceHolder>
+</body>
+</html>
